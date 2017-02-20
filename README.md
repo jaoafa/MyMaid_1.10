@@ -1,11 +1,13 @@
 # MyMaid
-[![Build Status](https://travis-ci.org/book000/MyMaid.svg?branch=master)](https://travis-ci.org/book000/MyMaid)
+[![Build Status](https://travis-ci.org/jaoafa/MyMaid_1.10.svg?branch=master)](https://travis-ci.org/jaoafa/MyMaid_1.10)
 [![Support jdk](https://img.shields.io/badge/Support%20jdk-openjdk7-yellow.svg)](https://img.shields.io)
 [![Author](https://img.shields.io/badge/Author%20MinecraftID-mine__book000-orange.svg)](https://img.shields.io)
 [![License](https://img.shields.io/badge/license-None-yellow.svg)](https://img.shields.io)
 [jaoafaServer](https://jaoafa.com/)
 ここでは、MyMaidプラグインのソースコードを公開していますが、jao鯖専用プラグインにつき無断使用を禁止します。
 
+## 概要
+プラグイン「MyMaid」の1.10.2対応版予定。
 ## 簡単な注意事項及び説明
 このプラグインはあくまでも、jao Minecraft Serverのためだけに作られているものであり、いかなる理由であっても、作成者の許可を取らずに勝手に使用をする行為は全て禁止いたします。
 また、ソースコードの使用に関しましても、丸々コピペするのではなく、あくまでも、アイディアを使うのみ等の利用に制限してください。
